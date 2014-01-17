@@ -1,7 +1,4 @@
-Auteur: Israël Hallé
-
-Ce programme exécute des programme CHIP8. Il est possible d'exécuter une rom en glissant la rom sur l'exécutalbe chip_8.exe.
-Le clavier virtuelle est représenté par 1-4, Q-R, A-F, Z-V.
+CHIP8 emulator written in C. It uses SDL as a renderer. Virtual keyboard uses 1-4, Q-R, A-F and Z-V keys.
 GL & HF
 
 Ressource: 
